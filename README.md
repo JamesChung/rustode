@@ -53,7 +53,7 @@ import { Result, err } from "rustode";
 
 let something: Result<string, string>;
 something = err("this isn't good...");
-if (something.isNone()) {
+if (something.isErr()) {
   console.log(something.unwrap());  // Error was thrown, attempting to unwrap an Err.
 }
 ```
