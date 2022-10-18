@@ -1,0 +1,9 @@
+{
+    "docwriter.style": "Auto-detect",
+    "docwriter.progress.trackMethods": true,
+    "docwriter.progress.trackClasses": true,
+    "docwriter.progress.trackTypes": false,
+    "cSpell.words": [
+        "rustode"
+    ]
+}
