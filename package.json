@@ -1,6 +1,6 @@
 {
   "name": "rustode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Rust-like Result and Option syntax.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,7 @@
     "url": "github.com/JamesChung/rustode"
   },
   "keywords": [
+    "typescript",
     "rust"
   ],
   "author": "James Chung",

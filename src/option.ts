@@ -65,7 +65,7 @@ export class Option<T> implements IOption<T> {
 
 
   /**
-   * Returns the contained Some value.
+   * Returns the contained `Some` value.
    *
    * Throws Error if the value equals `None`.
    * @returns The value of the `Option<T>`.
@@ -78,7 +78,7 @@ export class Option<T> implements IOption<T> {
   }
 
   /**
-   * Returns the contained Some value or a provided default.
+   * Returns the contained `Some` value or a provided default.
    * @param {T} value - T - The value to return if the Option is None.
    * @returns The value of the `Option<T>` if it is `Some`, otherwise the value passed in.
    */
