@@ -1,15 +1,14 @@
 {
   "name": "rustode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rust-like Result and Option syntax.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://github.com/JamesChung/rustode",
+  "repository": "github.com/JamesChung/rustode",
+  "bugs": "https://github.com/JamesChung/rustode/issues",
   "scripts": {
     "build": "tsc"
-  },
-  "repository": {
-    "type": "git",
-    "url": "github.com/JamesChung/rustode"
   },
   "keywords": [
     "typescript",
