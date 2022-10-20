@@ -1,6 +1,6 @@
 {
   "name": "rustode",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Rust-like Result and Option syntax.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,5 +15,8 @@
     "rust"
   ],
   "author": "James Chung",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
 }
